@@ -1,8 +1,8 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Ximena Urban,,Corporate,,,,,COO,1,,	
-Luis Ruiz,,Corporate,,,,,CTO,2,1
-JAZ,,Corporate,,,,,CTO,3,1
-Romina,,Corporate,,,,,CTO,4,2
-Cristina,,Corporate,,,,,CTO,5,3
-mujercita 1,,Corporate,,,,,CTO,6,5
-hobrecito 1,,Corporate,,,,,CTO,7,6
+Ximena Urban,,Operaciones,,,,,COO,1,,	
+Luis Ruiz,,Operaciones,,,,,CTO,2,1
+JAZ,,Operaciones,,,,,CTO,3,1
+Romina,,Operaciones,,,,,CTO,4,2
+Cristina,,Operaciones,,,,,CTO,5,3
+mujercita 1,,Operaciones,,,,,CTO,6,5
+hobrecito 1,,Operaciones,,,,,CTO,7,6
